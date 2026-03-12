@@ -24,13 +24,7 @@ Currently exploring **distributed systems, database internals, and applied AI/ML
 
 `C++` `C` `Python` `Java` `JavaScript` `SQL`
 
-**Backend & Web**I'm an undergraduate at **IIT Delhi** interested in building software systems and intelligent applications.
-
-I enjoy understanding how things work under the hood — from **databases and networking systems to backend architectures and developer tools**.
-
-Most of my projects involve implementing real-world systems such as **Redis-like servers, database query engines, and Unix shells**, along with exploring **LLM-powered applications**.
-
-Currently exploring **distributed systems, database internals, and applied AI/ML**.
+**Backend & Web**
 
 `Node.js` `Express` `React` `MongoDB` `Flask`
 
