@@ -16,6 +16,8 @@ Most of my projects involve implementing real-world systems such as **Redis-like
 
 Currently exploring **distributed systems, database internals, and applied AI/ML**.
 
+When I'm not coding, I enjoy **design, game development, and creative projects**.
+
 ---
 
 ## Tech Stack
