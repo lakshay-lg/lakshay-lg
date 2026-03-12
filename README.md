@@ -121,7 +121,7 @@ Enables querying PDFs with context-aware LLM responses.
 <img src="https://streak-stats.demolab.com?user=lakshay-lg&theme=tokyonight&hide_border=true"/>
 
 </p>
----
+
 
 
 ## Contribution Graph
@@ -129,7 +129,7 @@ Enables querying PDFs with context-aware LLM responses.
 <p align="center">
 <img src="https://github.com/lakshay-lg/lakshay-lg/blob/output/github-contribution-grid-snake.svg"/>
 </p>
---- 
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=lakshay-lg&color=blue&style=flat-square"/>
 </p>
