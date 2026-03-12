@@ -106,7 +106,7 @@ Enables querying PDFs with context-aware LLM responses.
 ---
 
 
-## GitHub Stats
+## GitHub Stats 1 
 
 <p align="center">
 
@@ -117,6 +117,50 @@ Enables querying PDFs with context-aware LLM responses.
 </p>
 
 ---
+ ## 📊 GitHub Stats 2 
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshay-lg&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay-lg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=lakshay-lg&theme=tokyonight&hide_border=true"/>
+
+</p>
+---
+
+## 📊 GitHub Stats 3
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lakshay-lg&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay-lg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-lg&theme=tokyonight&hide_border=true"/>
+
+</p>
+---
+## ontribution Graph
+
+<p align="center">
+<img src="https://github.com/lakshay-lg/lakshay-lg/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+--- 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lakshay-lg&color=blue&style=flat-square"/>
+</p>
+
+
 
 ## Connect
 
