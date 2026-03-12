@@ -37,64 +37,6 @@ Currently exploring **distributed systems, database internals, and applied AI/ML
 
 `LangChain` `FAISS` `NumPy` `Pandas` `scikit-learn`
 
----
-
-## Featured Projects
-
-### Redis-Compatible Key Value Store
-A high-performance **in-memory database written in C++** with TCP networking and RESP protocol parsing.
-
-Features:
-- redis-cli compatibility
-- key expiry
-- complex data structures
-- server architecture similar to production Redis
-
----
-
-### SQLite-Compatible Query Engine
-A lightweight database engine capable of executing queries by **decoding SQLite database pages directly**.
-
-Highlights:
-- B-tree traversal
-- record decoding
-- index-based lookup
-- modular query execution pipeline
-
----
-
-### Unix-like Shell
-A fully functional **Unix shell written in C/C++**.
-
-Includes:
-- process spawning via `fork/exec`
-- piping and redirection
-- command parsing
-- persistent command history
-
----
-
-### ShopSphere — MERN E-Commerce Platform
-A full-stack web application with:
-
-- JWT authentication
-- product catalog
-- order management
-- scalable REST APIs
-- React frontend
-
----
-
-### RAG-Based Document Assistant
-A Retrieval-Augmented Generation pipeline using:
-
-- LangChain
-- FAISS vector stores
-- HuggingFace embeddings
-
-Enables querying PDFs with context-aware LLM responses.
-
----
 
 ## Currently Exploring
 
