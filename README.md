@@ -106,18 +106,7 @@ Enables querying PDFs with context-aware LLM responses.
 ---
 
 
-## GitHub Stats 1 
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lakshay-lg&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay-lg&layout=compact&theme=tokyonight" />
-
-</p>
-
----
- ## 📊 GitHub Stats 2 
+ ## 📊 GitHub Stats
 
 <p align="center">
 
@@ -134,23 +123,8 @@ Enables querying PDFs with context-aware LLM responses.
 </p>
 ---
 
-## 📊 GitHub Stats 3
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lakshay-lg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay-lg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-lg&theme=tokyonight&hide_border=true"/>
-
-</p>
----
-## ontribution Graph
+## Contribution Graph
 
 <p align="center">
 <img src="https://github.com/lakshay-lg/lakshay-lg/blob/output/github-contribution-grid-snake.svg"/>
