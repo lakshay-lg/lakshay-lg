@@ -61,12 +61,6 @@ When I'm not coding, I enjoy **design, game development, and creative projects**
 
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=lakshay-lg&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 
 
 ## Contribution Graph
